@@ -1,7 +1,8 @@
 # Projet 7 : Implémentez un modèle de scoring
 Parcours Data Scientist d'OpenClassrooms en partenariat avec CentraleSupélec.
 
-L'objectif du projet consiste à implémenter un outil de "scoring crédit" (un dashboard interactif) pour calculer la probabilité qu’un client rembourse son crédit. Il s'agit d'un outil d'aide à la décision d'accepter ou de refuser une demande de crédit à la consommation.
+L'objectif du projet consiste à implémenter un outil de "scoring crédit" (un dashboard interactif) pour calculer la probabilité qu’un client rembourse son crédit.
+Il s'agit d'un outil d'aide à la décision d'octroi ou de refus de crédit à la consommation.
 
 La source des données est la suivante : https://www.kaggle.com/c/home-credit-default-risk/data
 
